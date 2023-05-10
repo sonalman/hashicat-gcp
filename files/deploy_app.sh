@@ -14,7 +14,7 @@ cat << EOM > /var/www/html/index.html
   <!-- BEGIN -->
   <center><img src="http://${PLACEHOLDER}/${WIDTH}/${HEIGHT}"></img></center>
   <center><h2>Meow World!</h2></center>
-  Welcome to ${PREFIX}'s app. This is a new place for Cyber Guru.
+  Welcome to ${PREFIX}'s app. This is the new place for the Cyber Guru.
   <!-- END -->
 
   </div>
